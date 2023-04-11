@@ -25,4 +25,10 @@ Our repositories on github:
   <li><a href="https://github.com/arioobarzan/Text-Tools">NLP's basic code using C#</a></li>
 </ul>
 
+<h2>Desktop Applications</h2>
+<ul>
+  <li><a href="https://github.com/arioobarzan/Guess-Number-Game">Guess Number Game using C#</a></li>
+  <li><a href="https://github.com/arioobarzan/Send_Gmail_Using_Csharp">Send email by Gmail from desktop using C#</a></li>
+</ul>
+
 
