@@ -19,3 +19,10 @@ Our repositories on github:
 <ul>
   <li><a href="https://github.com/arioobarzan/Simple-Neural-network">Feed Forward Neural Network in Matlab</a></li>
 </ul>
+
+<h2>NLP</h2>
+<ul>
+  <li><a href="https://github.com/arioobarzan/Text-Tools">NLP's basic code using C#</a></li>
+</ul>
+
+
