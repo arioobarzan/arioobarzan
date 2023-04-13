@@ -39,6 +39,14 @@ Our repositories on github:
 
 <h2>Website Components</h2>
 <ol>
-  
+  <li><a href="https://github.com/arioobarzan/Buttons">HTML Buttons </a></li>
+  <li><a href="https://github.com/arioobarzan/js-clock">JavaScript Clock</a></li>
+  <li><a href="https://github.com/arioobarzan/restaurant-menu">Restaurant Menu with API</a></li>
+  <li><a href="https://github.com/arioobarzan/snake-game-js">Snake Game by JavaScript</a></li>
+  <li><a href="https://github.com/arioobarzan/raspberry_windows_connect_tcp_ip">Connect Raspberry pi and PC with TCP/IP using Csharp </a></li>
+  <li><a href="https://github.com/arioobarzan/raspberry_windows_connect_tcp_ip">Connect Raspberry pi and PC with TCP/IP using Csharp </a></li>
+  <li><a href="https://github.com/arioobarzan/raspberry_windows_connect_tcp_ip">Connect Raspberry pi and PC with TCP/IP using Csharp </a></li>
+  <li><a href="https://github.com/arioobarzan/raspberry_windows_connect_tcp_ip">Connect Raspberry pi and PC with TCP/IP using Csharp </a></li>
+  <li><a href="https://github.com/arioobarzan/raspberry_windows_connect_tcp_ip">Connect Raspberry pi and PC with TCP/IP using Csharp </a></li>
 </ol>
 
