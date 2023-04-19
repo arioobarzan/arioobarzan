@@ -13,6 +13,8 @@ Our repositories on github:
 <ol>
   <li><a href="https://github.com/arioobarzan/Find-the-global-minimum-of-ackley-function-using-pso">Ackley minimum finder using PSO</a></li>
   <li><a href="https://github.com/arioobarzan/TSP-by-GA-and-MOGA">Solve TSP by Genetic Algorithm and Multi-Offspring GA</a></li>
+  <li><a href="https://github.com/arioobarzan/NSGA-II">NSGA-II</a></li>
+  
 </ol>
 
 <h2>Neural Networks</h2>
