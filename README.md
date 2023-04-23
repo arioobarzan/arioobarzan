@@ -51,4 +51,8 @@ Our repositories on github:
   <li><a href="https://github.com/arioobarzan/weather-info">Weather Info</a></li>
   <li><a href="https://github.com/arioobarzan/js-calculator">JavaScript Calculator</a></li>
 </ol>
+<h2>Web Applications</h2>
+<ol>
+  <li><a href="https://github.com/arioobarzan/Telegram-Bot-by-PHP">Telegram Bot File Sender using PHP</a></li>
+</ol>
 
