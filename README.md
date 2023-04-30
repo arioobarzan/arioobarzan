@@ -6,8 +6,8 @@ Our repositories on github:
 
 <h2>Image Processing</h2>
 <ol>
-  <li><a href="https://github.com/arioobarzan/Matlab_Image_Processing">Image Processing sample Code for Basic</a></li>
-  <li><a href="https://github.com/arioobarzan/Change-Image-Size-using-C-">Change image size using C#</a></li>
+  <li><a href="https://github.com/arioobarzan/Matlab_Image_Processing">Image Processing basic sample code by matlab</a></li>
+  <li><a href="https://github.com/arioobarzan/Change-Image-Size-using-C-">Image Processing basic sample code by C#</a></li>
   
 </ol>
 
