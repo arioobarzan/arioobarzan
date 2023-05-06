@@ -27,7 +27,7 @@ Our repositories on github:
 <h2>Natural Language Processing</h2>
 <ol>
   <li><a href="https://github.com/arioobarzan/Text-Tools">NLP's basic code using C#</a></li>
-  <li><a href="https://github.com/arioobarzan/Next-Word-Prediction-with-NLP-and-LSTM">Next Word Predication with NLP and LSTM</a></li>
+  <li><a href="https://github.com/arioobarzan/Next-Word-Prediction-with-NLP-and-LSTM">Next Word Predication with NLP and LSTM without Word Embedding</a></li>
 </ol>
 
 <h2>Desktop Applications</h2>
