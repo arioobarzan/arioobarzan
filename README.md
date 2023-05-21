@@ -68,4 +68,3 @@ Our repositories on github:
 <ol>
   <li><a href="https://github.com/arioobarzan/Telegram-Bot-by-PHP">Telegram Bot File Sender using PHP</a></li>
 </ol>
-
