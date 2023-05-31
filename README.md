@@ -28,6 +28,7 @@ Our repositories on github:
 <h2>Neural Networks</h2>
 <ol>
   <li><a href="https://github.com/arioobarzan/Simple-Neural-network">Feed Forward Neural Network in Matlab</a></li>
+  <li><a href="https://github.com/arioobarzan/Feed-Forward-Neural-Network-in-Python">Feed Forward Neural Network in Python</a></li>
 </ol>
 
 <h2>Natural Language Processing</h2>
