@@ -22,6 +22,8 @@ Our repositories on github:
   <li><a href="https://github.com/arioobarzan/Find-the-global-minimum-of-ackley-function-using-pso">Ackley minimum finder using PSO</a></li>
   <li><a href="https://github.com/arioobarzan/TSP-by-GA-and-MOGA">Solve TSP by Genetic Algorithm and Multi-Offspring GA</a></li>
   <li><a href="https://github.com/arioobarzan/NSGA-II">NSGA-II</a></li>
+  <li><a href="https://github.com/arioobarzan/Optimize-UF1-by-NSGA-II-using-matlab">Optimize UF1 function by NSGA-II using matlab</a></li>
+  <li><a href="https://github.com/arioobarzan/PSO-and-GA-Optimizer">PSO and GA optimizer</a></li>
   
 </ol>
 
