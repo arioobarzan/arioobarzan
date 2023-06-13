@@ -34,6 +34,12 @@ Our repositories on github:
   <li><a href="https://github.com/arioobarzan/Feed-Forward-Neural-Network-in-Python">Feed Forward Neural Network in Python</a></li>
 </ol>
 
+<h2>Deep Learning</h2>
+<ol>
+  <li><a href="https://github.com/arioobarzan/Multi-Fed-GAN">Multi-FedGAN</a></li>
+  <li><a href="https://github.com/arioobarzan/Feed-Forward-Neural-Network-in-Python">Feed Forward Neural Network in Python</a></li>
+</ol>
+
 <h2>Natural Language Processing</h2>
 <ol>
   <li><a href="https://github.com/arioobarzan/Text-Tools">NLP's basic code using C#</a></li>
