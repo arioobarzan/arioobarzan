@@ -10,7 +10,7 @@ Shiraz AriooBarzan Technical Team's <a href="https://arioo.ir">Website</a>
 
 Our repositories on github:
 
-<h2>Image Processing</h2>
+<h2>Image Processing and Machine Vision</h2>
 <ol>
   <li><a href="https://github.com/arioobarzan/Matlab_Image_Processing">Image Processing basic sample codes by matlab</a></li>
   <li><a href="https://github.com/arioobarzan/Machine-vision-basics-using-csharp">Machine vision basic sample codes by C#</a></li>
