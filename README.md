@@ -75,11 +75,11 @@ Our repositories on github:
 <ol>
   <li><a href="https://github.com/arioobarzan/Buttons">HTML Buttons </a></li>
   <li><a href="https://github.com/arioobarzan/js-clock">JavaScript Clock</a></li>
-  <li><a href="https://github.com/arioobarzan/restaurant-menu">Restaurant Menu with API</a></li>
+  <li><a href="https://github.com/arioobarzan/restaurant-menu">Restaurant Menu with API (HTML, JS, CSS)</a></li>
   <li><a href="https://github.com/arioobarzan/snake-game-js">Snake Game by JavaScript</a></li>
   <li><a href="https://github.com/arioobarzan/books-directory">Book Directory by JavaScript</a></li>
   <li><a href="https://github.com/arioobarzan/todo-list">To Do List (HTML, JS, CSS)</a></li>
-  <li><a href="https://github.com/arioobarzan/weather-info">Weather Info</a></li>
+  <li><a href="https://github.com/arioobarzan/weather-info">Weather Info (HTML, JS, CSS)</a></li>
   <li><a href="https://github.com/arioobarzan/js-calculator">JavaScript Calculator</a></li>
 </ol>
 <h2>Web Applications</h2>
