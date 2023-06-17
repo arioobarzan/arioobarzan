@@ -39,6 +39,7 @@ Our repositories on github:
 <h2>Deep Learning</h2>
 <ol>
   <li><a href="https://github.com/arioobarzan/Multi-Fed-GAN">Multi-FedGAN</a></li>
+  <li><a href="https://github.com/arioobarzan/federated-learning">Federated Learning</a></li>
   <li><a href="https://github.com/arioobarzan/Feed-Forward-Neural-Network-in-Python">Feed Forward Neural Network in Python</a></li>
 </ol>
 
