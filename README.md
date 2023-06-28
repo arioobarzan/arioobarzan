@@ -2,8 +2,8 @@
 
 Shiraz AriooBarzan Technical Team's <a href="https://arioo.ir">Website</a>
 
--  Arioobarzan team is a software team located at Shiraz, Iran.
--  Mohammad Zare is the Arioobarzan team supervisor.
+- Arioobarzan team is a software team located at Shiraz, Iran.
+- Mohammad Zare is the Arioobarzan team supervisor.
 - Image Processing, Optimization, Neural Networks, Natural Language Processing, Desktop Applications, Internet of Things, Security, Website Components and Web Applications are category of our repos <br />
 📫 To contact us you can email : md.zare@sutech.ac.ir
 
