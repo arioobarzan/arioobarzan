@@ -16,8 +16,6 @@ Our repositories on github:
   <li><a href="https://github.com/arioobarzan/Machine-vision-basics-using-csharp">Machine vision basic sample codes by C#</a></li>
   <li><a href="https://github.com/arioobarzan/Webcam-Control-usnig-Csharp">Webcam Control by C#</a></li>
   <li><a href="https://github.com/arioobarzan/In-Air-Handwritten-Recognition">In-Air Hand Written Recognition</a></li>
-  
-  
 </ol>
 
 <h2>Optimization</h2>
