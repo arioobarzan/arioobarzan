@@ -38,6 +38,7 @@ Our repositories on github:
 <ol>
   <li><a href="https://github.com/arioobarzan/Multi-Fed-GAN">Multi-FedGAN</a></li>
   <li><a href="https://github.com/arioobarzan/federated-learning">Federated Learning</a></li>
+  <li><a href="https://github.com/arioobarzan/Simple-Neural-network">Feed Forward Neural Network in Matlab</a></li>
   <li><a href="https://github.com/arioobarzan/Feed-Forward-Neural-Network-in-Python">Feed Forward Neural Network in Python</a></li>
 </ol>
 
