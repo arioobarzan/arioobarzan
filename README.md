@@ -70,7 +70,7 @@ Our repositories on github:
   <li><a href="https://github.com/arioobarzan/raspberry_windows_connect_tcp_ip">Connect Raspberry pi and PC with TCP/IP using Csharp </a></li>
 
  
-  <li><a href="https://github.com/arioobarzan/Arduino-Blutooth-Controller-usnig-Csharp"> Arduino-Blutooth-Controller-usnig-Csharp </a></li>
+  <li><a href="https://github.com/arioobarzan/Arduino-Blutooth-Controller-usnig-Csharp"> Arduino Blutooth Controller usnig Csharp </a></li>
 </ol>
 
 
