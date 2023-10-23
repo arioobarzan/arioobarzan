@@ -88,6 +88,8 @@ Our repositories on github:
   <li><a href="https://github.com/arioobarzan/todo-list">To Do List (HTML, JS, CSS)</a></li>
   <li><a href="https://github.com/arioobarzan/weather-info">Weather Info (HTML, JS, CSS)</a></li>
   <li><a href="https://github.com/arioobarzan/js-calculator">JavaScript Calculator</a></li>
+  <li><a href="https://github.com/arioobarzan/Wall-Image-Gallery-HTML5">Wall Image Gallery HTML5</a></li>
+ 
 </ol>
 <h2>Web Applications</h2>
 <ol>
