@@ -89,6 +89,8 @@ Our repositories on github:
   <li><a href="https://github.com/arioobarzan/weather-info">Weather Info (HTML, JS, CSS)</a></li>
   <li><a href="https://github.com/arioobarzan/js-calculator">JavaScript Calculator</a></li>
   <li><a href="https://github.com/arioobarzan/Wall-Image-Gallery-HTML5">Wall Image Gallery HTML5</a></li>
+  <li><a href="https://github.com/arioobarzan/Canvas-Tree-HTML-JS">Canvas Tree HTML JS</a></li>
+  
  
 </ol>
 <h2>Web Applications</h2>
