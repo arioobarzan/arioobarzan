@@ -19,6 +19,7 @@ Our repositories on github:
   <li><a href="https://github.com/arioobarzan/In-Air-Handwritten-Recognition">In-Air Hand Written Recognition by Deep Learning</a></li>
   <li><a href="https://github.com/arioobarzan/Calculate-PSNR-between-Two-Images-using-Csharp-Console-App">Calculate PSNR between Two Images using Csharp Console Application</a></li>
   <li><a href="https://github.com/arioobarzan/Traffic-Sign-Recgnition">Traffic Sign Recgnition</a></li>
+  <li><a href="https://github.com/arioobarzan/Difusion">Stable Diffusion, Coloriziong Imagw with Prompt</a></li>
   
  
 </ol>
