@@ -31,6 +31,8 @@ Our repositories on github:
   <li><a href="https://github.com/arioobarzan/NSGA-II">NSGA-II</a></li>
   <li><a href="https://github.com/arioobarzan/Optimize-UF1-by-NSGA-II-using-matlab">Optimize UF1 function by NSGA-II using matlab</a></li>
   <li><a href="https://github.com/arioobarzan/PSO-and-GA-Optimizer">PSO and GA optimizer</a></li>
+  <li><a href="https://github.com/arioobarzan/GA-by-Python">GA by Python</a></li>
+  
   
 </ol>
 
