@@ -84,6 +84,8 @@ Our repositories on github:
 
 <h2>Website Components</h2>
 <ol>
+ 
+  <li><a href="https://github.com/arioobarzan/Pagination-and-searchable-HTML-table-with-pure-JS">Pagination and searchable HTML table with pure JS</a></li>
   <li><a href="https://github.com/arioobarzan/Buttons">HTML Buttons </a></li>
   <li><a href="https://github.com/arioobarzan/js-clock">JavaScript Clock</a></li>
   <li><a href="https://github.com/arioobarzan/restaurant-menu">Restaurant Menu with API (HTML, JS, CSS)</a></li>
