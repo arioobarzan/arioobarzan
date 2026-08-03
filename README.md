@@ -1,108 +1,131 @@
-<h1>AriooBarzan Technical Team</h1>
- 
-Shiraz AriooBarzan Technical Team's <a href="https://arioo.ir">Website</a>
- 
-- Arioobarzan team is a software team located at Shiraz, Iran.
-- Mohammad Zare is the Arioobarzan team supervisor.
-- Our repositories are categorized into 8 categories: Image Processing, Optimization, Neural Networks, Natural Language Processing, Desktop Applications, Internet of Things, Security, and Website Components and Web Applications <br />
-📫 To contact us you can email by: md.zare@sutech.ac.ir
+<div align="center">
 
+# 👋 Hi, I'm **Arioo Barzan**
 
-Our repositories on github:
+### AI Researcher · Software Engineer · Open Source Contributor
 
-<h2>Image Processing and Machine Vision</h2>
-<ol>
-  <li><a href="https://github.com/arioobarzan/Matlab_Image_Processing">Image Processing basic sample codes by matlab</a></li>
-  <li><a href="https://github.com/arioobarzan/Machine-vision-basics-using-csharp">Machine vision basic sample codes by C#</a></li>
-  <li><a href="https://github.com/arioobarzan/Webcam-Control-usnig-Csharp">Webcam Control by C#</a></li>
-  <li><a href="https://github.com/arioobarzan/In-Air-Handwritten-Recognition">In-Air Hand Written Recognition by Deep Learning</a></li>
-  <li><a href="https://github.com/arioobarzan/Calculate-PSNR-between-Two-Images-using-Csharp-Console-App">Calculate PSNR between Two Images using Csharp Console Application</a></li>
-  <li><a href="https://github.com/arioobarzan/Traffic-Sign-Recgnition">Traffic Sign Recgnition</a></li>
-  <li><a href="https://github.com/arioobarzan/Diffusion">Stable Diffusion, Coloriziong Image with Prompt</a></li>
-  
- 
-</ol>
+<img src="https://komarev.com/ghpvc/?username=arioobarzan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
-<h2>Optimization</h2>
-<ol>
-  <li><a href="https://github.com/arioobarzan/Find-the-global-minimum-of-ackley-function-using-pso">Ackley minimum finder using PSO</a></li>
-  <li><a href="https://github.com/arioobarzan/TSP-by-GA-and-MOGA">Solve TSP by Genetic Algorithm and Multi-Offspring GA</a></li>
-  <li><a href="https://github.com/arioobarzan/NSGA-II">NSGA-II</a></li>
-  <li><a href="https://github.com/arioobarzan/Optimize-UF1-by-NSGA-II-using-matlab">Optimize UF1 function by NSGA-II using matlab</a></li>
-  <li><a href="https://github.com/arioobarzan/PSO-and-GA-Optimizer">PSO and GA optimizer</a></li>
-  <li><a href="https://github.com/arioobarzan/GA-by-Python">GA by Python</a></li>
-  
-  
-</ol>
+</div>
 
-<h2>Neural Networks</h2>
-<ol>
-  <li><a href="https://github.com/arioobarzan/Simple-Neural-network">Feed Forward Neural Network in Matlab</a></li>
-  <li><a href="https://github.com/arioobarzan/Feed-Forward-Neural-Network-in-Python">Feed Forward Neural Network in Python</a></li>
-</ol>
+---
 
-<h2>Deep Learning</h2>
-<ol>
-  <li><a href="https://github.com/arioobarzan/Multi-Fed-GAN">Multi-FedGAN</a></li>
-  <li><a href="https://github.com/arioobarzan/federated-learning">Federated Learning</a></li>
-  <li><a href="https://github.com/arioobarzan/Simple-Neural-network">Feed Forward Neural Network in Matlab</a></li>
-  <li><a href="https://github.com/arioobarzan/Feed-Forward-Neural-Network-in-Python">Feed Forward Neural Network in Python</a></li>
-</ol>
+## 🧠 About Me
 
-<h2>Natural Language Processing</h2>
-<ol>
-  <li><a href="https://github.com/arioobarzan/Text-Tools">NLP's basic code using C#</a></li>
-  <li><a href="https://github.com/arioobarzan/Next-Word-Prediction-with-NLP-and-LSTM">Next Word Predication with NLP and LSTM without Word Embedding</a></li>
-</ol>
+- 🎓 **AI & Machine Learning** specialist with deep expertise in Computer Vision, NLP, and Federated Learning
+- 💻 13+ years of coding, from C# desktop apps to cutting-edge Deep Learning research
+- 🔬 Passionate about **Generative AI**, **Optimization Algorithms**, and **Distributed Learning**
+- 🌐 Building open-source tools at the intersection of research and real-world applications
+- 📍 Based in Shiraz, Iran · [arioo.ir](https://arioo.ir)
 
-<h2>Desktop Applications</h2>
-<ol>
- 
-  <li><a href="https://github.com/arioobarzan/Mobile-Store-Sample-Code-in-CSharp--Persian-">Mobile Store using C#</a></li>
-  <li><a href="https://github.com/arioobarzan/Guess-Number-Game">Guess Number Game using C#</a></li>
-  <li><a href="https://github.com/arioobarzan/Send_Gmail_Using_Csharp">Send email by Gmail from desktop using C#</a></li>
-  <li><a href="https://github.com/arioobarzan/Multi_Form">C# Multi Form Sample</a></li>
-  <li><a href="https://github.com/arioobarzan/Fantasy-Clock-using-CSharp">C# Fantasy Clock</a></li>
-  <li><a href="https://github.com/arioobarzan/Mohandes-Nazer">C# Engineer sort assigning </a></li>
-  <li><a href="https://github.com/arioobarzan/DB-Example-using-csharp">Example of Connecting DB to C# Program</a></li>
-  <li><a href="https://github.com/arioobarzan/Modern-UI-using-C--TAB">Modern UI using C# Winodws Form</a></li>
-  <li><a href="https://github.com/arioobarzan/Using-TreeView-in-CSharp">TreeView using C# Winodws Form</a></li>
-  
-</ol>
-<h2>Security</h2>
-<ol>
-  <li><a href="https://github.com/arioobarzan/Key-Logger-using-Csharp">Key Logger using C#</a></li>
-</ol>
+---
 
-<h2>Internet of Things</h2>
-<ol>
-  <li><a href="https://github.com/arioobarzan/raspberry_windows_connect_tcp_ip">Connect Raspberry pi and PC with TCP/IP using Csharp </a></li>
-  <li><a href="https://github.com/arioobarzan/Arduino-Blutooth-Controller-usnig-Csharp"> Arduino Blutooth Controller usnig Csharp </a></li>
-</ol>
+## 🏆 GitHub Trophy Cabinet
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arioobarzan&theme=onedark&no-frame=true&row=2&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+</p>
 
-<h2>Website Components</h2>
-<ol>
- 
-  <li><a href="https://github.com/arioobarzan/Pagination-and-searchable-HTML-table-with-pure-JS">Pagination and searchable HTML table with pure JS</a></li>
-  <li><a href="https://github.com/arioobarzan/Buttons">HTML Buttons </a></li>
-  <li><a href="https://github.com/arioobarzan/js-clock">JavaScript Clock</a></li>
-  <li><a href="https://github.com/arioobarzan/restaurant-menu">Restaurant Menu with API (HTML, JS, CSS)</a></li>
-  <li><a href="https://github.com/arioobarzan/snake-game-js">Snake Game by JavaScript</a></li>
-  <li><a href="https://github.com/arioobarzan/books-directory">Book Directory by JavaScript</a></li>
-  <li><a href="https://github.com/arioobarzan/todo-list">To Do List (HTML, JS, CSS)</a></li>
-  <li><a href="https://github.com/arioobarzan/weather-info">Weather Info (HTML, JS, CSS)</a></li>
-  <li><a href="https://github.com/arioobarzan/js-calculator">JavaScript Calculator</a></li>
-  <li><a href="https://github.com/arioobarzan/Wall-Image-Gallery-HTML5">Wall Image Gallery HTML5</a></li>
-  <li><a href="https://github.com/arioobarzan/Canvas-Tree-HTML-JS">Canvas Tree HTML JS</a></li>
-  
- 
-</ol>
-<h2>Web Applications</h2>
-<ol>
-  <li><a href="https://github.com/arioobarzan/Telegram-Bot-by-PHP">Telegram Bot File Sender using PHP</a></li>
-  <li><a href="https://github.com/arioobarzan/PHP-Online-Book-Store">PHP Online Book Store</a></li>
- 
-</ol>
+---
 
-![](https://komarev.com/ghpvc/?username=arioobarzan)
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arioobarzan&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arioobarzan&layout=compact&theme=github_dark&hide_border=true&langs_count=10" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=arioobarzan&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arioobarzan&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Timeline%20(2013%20–%202026)" alt="Activity Graph" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### AI & Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Domains
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-4285F4?style=for-the-badge&logo=googlelens&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FF6F61?style=for-the-badge&logo=googletranslate&logoColor=white)
+![Federated Learning](https://img.shields.io/badge/Federated_Learning-00BFA5?style=for-the-badge&logo=futurelearn&logoColor=white)
+![GANs](https://img.shields.io/badge/GANs-9C27B0?style=for-the-badge&logo=wolfram&logoColor=white)
+![Genetic Algorithms](https://img.shields.io/badge/Genetic_Algorithms-388E3C?style=for-the-badge&logo=dnazoom&logoColor=white)
+
+### Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+
+| 🧠 AI & Deep Learning | 🔧 Tools & Apps |
+|---|---|
+| [Multi-FedGAN](https://github.com/arioobarzan/Multi-Fed-GAN) — Federated GAN | [Text Tools](https://github.com/arioobarzan/Text-Tools) — NLP Toolkit in C# |
+| [Federated Learning](https://github.com/arioobarzan/federated-learning) — FL Framework | [Modern UI](https://github.com/arioobarzan/Modern-UI-using-C--TAB) — C# UI Components |
+| [Colorization GAN](https://github.com/arioobarzan/Colorization-GAN) — Image Colorization | [PHP Book Store](https://github.com/arioobarzan/PHP-Online-Book-Store) — Online Store |
+| [In-Air Handwriting](https://github.com/arioobarzan/In-Air-Handwritten-Recognition) — Depth Camera CNN | [Arduino Bluetooth](https://github.com/arioobarzan/Arduino-Blutooth-Controller-usnig-Csharp) — IoT Controller |
+| [Next Word Prediction](https://github.com/arioobarzan/Next-Word-Prediction-with-NLP-and-LSTM) — LSTM NLP | [Snake Game JS](https://github.com/arioobarzan/snake-game-js) — Browser Game |
+| [Traffic Sign Recognition](https://github.com/arioobarzan/Traffic-Sign-Recgnition) — CV Classifier | [Weather Info](https://github.com/arioobarzan/weather-info) — Web App |
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://arioo.ir">
+    <img src="https://img.shields.io/badge/Website-arioo.ir-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="mailto:arioobarzan@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-arioobarzan@hotmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/arioobarzan">
+    <img src="https://img.shields.io/badge/GitHub-arioobarzan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### 🎯 13+ Years of Code · 700+ Active Weeks · No Gaps
+
+*"Consistency is the silent architect of mastery."*
+
+</div>
+
+---
+
+<p align="center">
+  <sub>📅 Joined GitHub: 2013 · ⚡ Last updated: 2026-08-03</sub>
+</p>
