@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm **Arioo Barzan**
+# 🚀 AriooBarzan Technical Team
 
-### AI Researcher · Software Engineer · Open Source Contributor
+### AI Research · Software Engineering · Open Source
 
 <img src="https://komarev.com/ghpvc/?username=arioobarzan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
@@ -10,13 +10,16 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 About Us
 
-- 🎓 **AI & Machine Learning** specialist with deep expertise in Computer Vision, NLP, and Federated Learning
-- 💻 13+ years of coding, from C# desktop apps to cutting-edge Deep Learning research
-- 🔬 Passionate about **Generative AI**, **Optimization Algorithms**, and **Distributed Learning**
-- 🌐 Building open-source tools at the intersection of research and real-world applications
-- 📍 Based in Shiraz, Iran · [arioo.ir](https://arioo.ir)
+- 🎓 Specialized in **Artificial Intelligence**, **Computer Vision**, **NLP**, and **Federated Learning**
+- 💻 Full-stack development from **C# desktop applications** to **Deep Learning research**
+- 🔬 Active in **Generative AI**, **Evolutionary Optimization**, and **Distributed Systems**
+- 🌐 Based in **Shiraz, Iran** · [arioobarzan.com](https://arioobarzan.com)
+- 👨‍🏫 Supervised by **Mohammad Zare**
+
+### 📂 Our 8 Research & Development Categories
+`Image Processing` · `Optimization` · `Neural Networks` · `NLP` · `Desktop Apps` · `IoT` · `Security` · `Web`
 
 ---
 
@@ -28,7 +31,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 Team Statistics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arioobarzan&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
@@ -41,7 +44,7 @@
 
 ---
 
-## 📈 Contribution Activity Graph
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arioobarzan&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Timeline%20(2013%20–%202026)" alt="Activity Graph" />
@@ -58,6 +61,7 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### AI & Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -66,20 +70,23 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 ### Domains
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-4285F4?style=for-the-badge&logo=googlelens&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-FF6F61?style=for-the-badge&logo=googletranslate&logoColor=white)
 ![Federated Learning](https://img.shields.io/badge/Federated_Learning-00BFA5?style=for-the-badge&logo=futurelearn&logoColor=white)
 ![GANs](https://img.shields.io/badge/GANs-9C27B0?style=for-the-badge&logo=wolfram&logoColor=white)
-![Genetic Algorithms](https://img.shields.io/badge/Genetic_Algorithms-388E3C?style=for-the-badge&logo=dnazoom&logoColor=white)
+![Evolutionary Algorithms](https://img.shields.io/badge/Evolutionary_Algorithms-388E3C?style=for-the-badge&logo=dnazoom&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-### Tools & DevOps
+### Tools & Infrastructure
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ---
 
@@ -87,27 +94,30 @@
 
 <p align="center">
 
-| 🧠 AI & Deep Learning | 🔧 Tools & Apps |
+| 🧠 AI & Deep Learning | 🔧 Tools & Applications |
 |---|---|
-| [Multi-FedGAN](https://github.com/arioobarzan/Multi-Fed-GAN) — Federated GAN | [Text Tools](https://github.com/arioobarzan/Text-Tools) — NLP Toolkit in C# |
-| [Federated Learning](https://github.com/arioobarzan/federated-learning) — FL Framework | [Modern UI](https://github.com/arioobarzan/Modern-UI-using-C--TAB) — C# UI Components |
-| [Colorization GAN](https://github.com/arioobarzan/Colorization-GAN) — Image Colorization | [PHP Book Store](https://github.com/arioobarzan/PHP-Online-Book-Store) — Online Store |
-| [In-Air Handwriting](https://github.com/arioobarzan/In-Air-Handwritten-Recognition) — Depth Camera CNN | [Arduino Bluetooth](https://github.com/arioobarzan/Arduino-Blutooth-Controller-usnig-Csharp) — IoT Controller |
-| [Next Word Prediction](https://github.com/arioobarzan/Next-Word-Prediction-with-NLP-and-LSTM) — LSTM NLP | [Snake Game JS](https://github.com/arioobarzan/snake-game-js) — Browser Game |
-| [Traffic Sign Recognition](https://github.com/arioobarzan/Traffic-Sign-Recgnition) — CV Classifier | [Weather Info](https://github.com/arioobarzan/weather-info) — Web App |
+| [Multi-FedGAN](https://github.com/arioobarzan/Multi-Fed-GAN) — Federated GAN Framework | [Text Tools](https://github.com/arioobarzan/Text-Tools) — NLP Toolkit (C#) |
+| [Federated Learning](https://github.com/arioobarzan/federated-learning) — FL Research | [Modern UI](https://github.com/arioobarzan/Modern-UI-using-C--TAB) — C# UI Components |
+| [Colorization GAN](https://github.com/arioobarzan/Colorization-GAN) — Image Colorization | [PHP Book Store](https://github.com/arioobarzan/PHP-Online-Book-Store) — E-Commerce |
+| [In-Air Handwriting](https://github.com/arioobarzan/In-Air-Handwritten-Recognition) — 3D CNN | [Arduino BT Controller](https://github.com/arioobarzan/Arduino-Blutooth-Controller-usnig-Csharp) — IoT |
+| [Traffic Sign Recognition](https://github.com/arioobarzan/Traffic-Sign-Recgnition) — CV | [Weather Info](https://github.com/arioobarzan/weather-info) — Web App |
+| [Next Word Prediction](https://github.com/arioobarzan/Next-Word-Prediction-with-NLP-and-LSTM) — LSTM | [Snake Game](https://github.com/arioobarzan/snake-game-js) — JavaScript |
 
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Us
 
 <p align="center">
-  <a href="https://arioo.ir">
-    <img src="https://img.shields.io/badge/Website-arioo.ir-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  <a href="https://arioobarzan.com">
+    <img src="https://img.shields.io/badge/🌐_Website-arioobarzan.com-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
   <a href="mailto:arioobarzan@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-arioobarzan@hotmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/📧_Email-arioobarzan@hotmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/arioo_ir">
+    <img src="https://img.shields.io/badge/📷_Instagram-@arioo_ir-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://github.com/arioobarzan">
     <img src="https://img.shields.io/badge/GitHub-arioobarzan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -118,14 +128,14 @@
 
 <div align="center">
 
-### 🎯 13+ Years of Code · 700+ Active Weeks · No Gaps
+### 🎯 13+ Years · 700+ Active Weeks · 8 Categories · 50+ Repositories
 
-*"Consistency is the silent architect of mastery."*
+*"Building the future, one commit at a time."*
 
 </div>
 
 ---
 
 <p align="center">
-  <sub>📅 Joined GitHub: 2013 · ⚡ Last updated: 2026-08-03</sub>
+  <sub>📅 Active on GitHub since 2013 · 📍 Shiraz, Iran · 🕐 Tehran Time (GMT+03:30)</sub>
 </p>
